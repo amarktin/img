@@ -1,2 +1,1 @@
-# img
-img bed
+# 2026-6-17, add图片存储目录img
